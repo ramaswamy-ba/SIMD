@@ -14,3 +14,5 @@ Blog - http://0x80.pl/notesen.html
   - https://github.com/WojciechMula/toys/tree/master/avx512-print-u64-bin
 
     Linkedin image post: https://media.licdn.com/dms/image/v2/D4D22AQFfFYhvjNggYA/feedshare-shrink_1280/B4DZqvGnn2IgAs-/0/1763874342333?e=1766016000&v=beta&t=6eZqkBLhpr2OycIzTkvb8WsDtkSpHlEghz9grEaD4FU
+
+    https://jubilant-succotash-9p497prqxwhxpw6.github.dev/
